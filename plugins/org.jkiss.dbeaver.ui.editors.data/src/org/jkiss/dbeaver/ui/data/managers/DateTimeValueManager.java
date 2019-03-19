@@ -28,7 +28,7 @@ import org.jkiss.dbeaver.ui.data.editors.DateTimeInlineEditor;
 import org.jkiss.dbeaver.ui.data.editors.DateTimeStandaloneEditor;
 
 /**
- * JDBC string value handler
+ * Date/time value handler
  */
 public class DateTimeValueManager extends BaseValueManager {
 
